@@ -1,0 +1,13 @@
+001<body>
+002 <div class=”app”>
+003  <h1>PhoneGap</h1>
+004    <div id=”deviceready”>
+005      <p class=”status pending blink”>        Connecting     to Device</p>               006     <p class=”status complete blink hide”
+007>Device is Ready</p>
+008    </div>
+009  </div>
+010 <script type=”text/javascript” src=”cordova.        js”></script>                       011  <script type=”text/javascript” src=”js/           index.
+012js”></script>
+013  <script type=”text/javascript”>
+014    app.initialize();
+015  </script>   </body>
